@@ -35,6 +35,8 @@ It highlights how security detections can be treated like software—automated, 
 
 ## 📂 Repository Structure
 
+🔗 [Detection-as-Code Project Files](https://github.com/702alvarez/detection-as-code)
+
 
 ```plaintext
 detection-as-code/
