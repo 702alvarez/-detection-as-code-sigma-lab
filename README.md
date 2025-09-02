@@ -43,9 +43,9 @@ detection-as-code/
 ├── detections/
 │   ├── sigma/      # Sigma rules (source of truth)
 │   │   └── windows/
-│   │       ├── powershell_encoded_command.yml
-│   │       ├── certutil_download.yml
-│   │       └── lolbin_suspicious.yml
+│   │       └─ powershell_encoded_command.yml
+│   │       
+│   │       
 │   └── kusto/      # Converted KQL queries
 │       ├── powershell_encoded_command.kql
 │       ├── certutil_download.kql
